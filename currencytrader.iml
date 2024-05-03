@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Archive/Android Studio projects/Brazellian/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Archive/Android Studio projects/Brazellian/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Archive/Android Studio projects/Brazellian/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Archive/Android Studio projects/Delivery/customer/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Archive/Android Studio projects/Delivery/customer/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Archive/Android Studio projects/Delivery/customer/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Archive/Android Studio projects/Delivery/rider/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Archive/Android Studio projects/Delivery/rider/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Archive/Android Studio projects/Delivery/rider/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Archive/Android Studio projects/Delivery/rider/ios/.symlinks/plugins/assets_audio_player/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Archive/Android Studio projects/Delivery/rider/ios/.symlinks/plugins/assets_audio_player/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Archive/Android Studio projects/Delivery/rider/ios/.symlinks/plugins/assets_audio_player/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Archive/Android Studio projects/Delivery/rider/ios/.symlinks/plugins/assets_audio_player/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Archive/Android Studio projects/Delivery/rider/ios/.symlinks/plugins/assets_audio_player/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Archive/Android Studio projects/Delivery/rider/ios/.symlinks/plugins/assets_audio_player/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Archive/Android Studio projects/Delivery/rider/ios/.symlinks/plugins/geocoding_ios/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Archive/Android Studio projects/Delivery/rider/ios/.symlinks/plugins/geocoding_ios/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Archive/Android Studio projects/Delivery/rider/ios/.symlinks/plugins/geocoding_ios/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Archive/Android Studio projects/Delivery/rider/ios/.symlinks/plugins/geocoding_ios/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Archive/Android Studio projects/Delivery/rider/ios/.symlinks/plugins/geocoding_ios/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Archive/Android Studio projects/Delivery/rider/ios/.symlinks/plugins/geocoding_ios/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Archive/Android Studio projects/Delivery/rider/ios/.symlinks/plugins/image_picker_ios/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Archive/Android Studio projects/Delivery/rider/ios/.symlinks/plugins/image_picker_ios/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Archive/Android Studio projects/Delivery/rider/ios/.symlinks/plugins/image_picker_ios/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Archive/Android Studio projects/Delivery/rider/ios/.symlinks/plugins/image_picker_ios/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Archive/Android Studio projects/Delivery/rider/ios/.symlinks/plugins/image_picker_ios/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Archive/Android Studio projects/Delivery/rider/ios/.symlinks/plugins/image_picker_ios/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Archive/Android Studio projects/Delivery/rider/ios/.symlinks/plugins/location/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Archive/Android Studio projects/Delivery/rider/ios/.symlinks/plugins/location/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Archive/Android Studio projects/Delivery/rider/ios/.symlinks/plugins/location/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Archive/Android Studio projects/Delivery/rider/ios/.symlinks/plugins/location/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Archive/Android Studio projects/Delivery/rider/ios/.symlinks/plugins/location/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Archive/Android Studio projects/Delivery/rider/ios/.symlinks/plugins/location/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Archive/Android Studio projects/FoodApp/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Archive/Android Studio projects/FoodApp/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Archive/Android Studio projects/FoodApp/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Archive/Android Studio projects/investigation/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Archive/Android Studio projects/investigation/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Archive/Android Studio projects/investigation/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Archive/Android Studio projects/technician/technician_customer_side/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Archive/Android Studio projects/technician/technician_customer_side/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Archive/Android Studio projects/technician/technician_customer_side/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Archive/Android Studio projects/technician/technician_seller_side/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Archive/Android Studio projects/technician/technician_seller_side/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Archive/Android Studio projects/technician/technician_seller_side/build" />
+      <excludeFolder url="file://$MODULE_DIR$/GsTaxiCustomer/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/GsTaxiCustomer/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/GsTaxiCustomer/build" />
+      <excludeFolder url="file://$MODULE_DIR$/GsTaxiDriver/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/GsTaxiDriver/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/GsTaxiDriver/build" />
+      <excludeFolder url="file://$MODULE_DIR$/HouseToMotive/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/HouseToMotive/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/HouseToMotive/build" />
+      <excludeFolder url="file://$MODULE_DIR$/build" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
+  </component>
+</module>
