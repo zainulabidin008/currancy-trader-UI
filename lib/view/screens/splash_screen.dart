@@ -34,7 +34,7 @@ class _SplashScreenState extends State<SplashScreen> {
         children: [
           Text(
             "Currency Trader",
-            style: GoogleFonts.dancingScript(color: AppColors.white, fontSize: 28, fontWeight: FontWeight.bold),
+            style: GoogleFonts.roboto(color: AppColors.white, fontSize: 28, fontWeight: FontWeight.bold),
           ),
         ],
       )),

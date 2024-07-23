@@ -41,7 +41,7 @@ dependencies:
   google_fonts: ^6.2.1
   country_code_picker: ^3.0.0
   flutter_otp_text_field: ^1.1.3+2
-
+  syncfusion_flutter_charts: ^25.2.3+1
 dev_dependencies:
   flutter_test:
     sdk: flutter
@@ -68,6 +68,7 @@ flutter:
   assets:
     - assets/images/
     - assets/icons/
+    - assets/icons/settings_screens/
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware

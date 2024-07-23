@@ -16,16 +16,20 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return ResponsiveSizer(
       builder: (context, orientation, screenType) {
-        return MaterialApp(
-          debugShowCheckedModeBanner: false,
-          home: GetMaterialApp(
-            title: 'Currency Trader',
-            theme: ThemeData(
-              colorScheme: ColorScheme.fromSeed(seedColor: AppColors.primaryBlueColor, background: AppColors.secondaryColor),
-              useMaterial3: true,
-            ),
-            home: const SplashScreen(),
-          ),
+        return ResponsiveSizer(
+          builder: (p0, p1, p2) {
+            return GetMaterialApp(
+              debugShowCheckedModeBanner: false,
+              title: 'Currency Trader',
+              theme: ThemeData(
+                colorScheme: ColorScheme.fromSeed(
+                    seedColor: AppColors.primaryBlueColor,
+                    background: AppColors.secondaryColor),
+                useMaterial3: true,
+              ),
+              home: const SplashScreen(),
+            );
+          },
         );
       },
     );

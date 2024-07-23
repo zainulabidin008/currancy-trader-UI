@@ -1,5 +1,6 @@
 import 'package:currencytrader/controller/utils/app_colors.dart';
 import 'package:currencytrader/view/components/buttons.dart';
+import 'package:currencytrader/view/components/customBottomNavigationBar.dart';
 import 'package:currencytrader/view/components/text_fields.dart';
 import 'package:currencytrader/view/screens/auth_screens/signup_screen.dart';
 import 'package:flutter/material.dart';
@@ -63,7 +64,7 @@ class _LoginScreenState extends State<LoginScreen> {
                 child: CustomButton(
                   text: "Sign In",
                   onPressed: () {
-                    Get.to(const SignUpScreen());
+                    Get.to(const CustomBottomNavigationBar());
                   },
                 ),
               ),

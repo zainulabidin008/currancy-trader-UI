@@ -1,14 +1,13 @@
 import 'package:country_code_picker/country_code_picker.dart';
+import 'package:currencytrader/controller/utils/app_text_styles.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:responsive_sizer/responsive_sizer.dart';
-
 import '../../../controller/utils/app_colors.dart';
 import '../../components/buttons.dart';
 import '../../components/text_fields.dart';
 import 'otp_screen.dart';
-
 class SignUpScreen extends StatefulWidget {
   const SignUpScreen({super.key});
 
@@ -42,10 +41,10 @@ class _SignUpScreenState extends State<SignUpScreen> {
               SizedBox(
                 height: 25.px,
               ),
-              Text("Welcome back!", style: GoogleFonts.roboto(color: AppColors.white, fontSize: 20, fontWeight: FontWeight.bold)),
+              Text("Welcome back!", style: CustomTextStyle.headingStyle,),
               Text(
                 "Sign Up to your account",
-                style: GoogleFonts.roboto(color: AppColors.white, fontSize: 16),
+                style: CustomTextStyle.subHeadingStyle,
               ),
               SizedBox(
                 height: 62.px,
@@ -121,18 +120,18 @@ class _SignUpScreenState extends State<SignUpScreen> {
                 height: 20.px,
               ),
               CustomPasswordField(hintText: "Enter your password", labelText: "Confirm Password", controller: confirmPasswordController),
+              // SizedBox(
+              //   height: 10.px,
+              // ),
+              // Align(
+              //   alignment: Alignment.centerRight,
+              //   child: Text(
+              //     "Forgot Password?",
+              //     style: GoogleFonts.roboto(color: AppColors.primaryBlueColor, fontSize: 12),
+              //   ),
+              // ),
               SizedBox(
-                height: 10.px,
-              ),
-              Align(
-                alignment: Alignment.centerRight,
-                child: Text(
-                  "Forgot Password?",
-                  style: GoogleFonts.roboto(color: AppColors.primaryBlueColor, fontSize: 12),
-                ),
-              ),
-              SizedBox(
-                height: 23.px,
+                height: 5.h,
               ),
               Align(
                 alignment: Alignment.center,

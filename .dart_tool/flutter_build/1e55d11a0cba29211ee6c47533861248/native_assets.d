@@ -1,0 +1,1 @@
+ C:\\Users\\zaini\ hunt\\StudioProjects\\currency-trader\\.dart_tool\\flutter_build\\1e55d11a0cba29211ee6c47533861248\\native_assets.yaml: 
